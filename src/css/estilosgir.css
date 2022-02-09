@@ -1,0 +1,36 @@
+.contenedor{
+  width: 100%;
+  display: flex;
+}
+#chartdiv {
+  width: 100%;
+  height: 200px;
+  max-width:100%;
+}
+#chartdiv2 {
+  width: 100%;
+  height: 200px;
+  max-width:100%;
+}
+
+#chartdiv3 {
+  width: 100%;
+  height: 200px;
+  max-width:100%;
+}
+
+#chartdiv4 {
+  width: 100%;
+  height: 200px;
+  max-width:100%;
+}
+#chartdiv5 {
+  width: 100%;
+  height: 200px;
+  max-width:100%;
+}
+#chartdiv6 {
+  width: 100%;
+  height: 200px;
+  max-width:100%;
+}
